@@ -12,3 +12,4 @@ This repository contains the SOCCOMAS source code ontology (SC-Basic)
 **Please be aware that this project is ongoing research! This code is for demonstration purposes only. Do not use
  in production environment!**
   
+ **Code will be made available in the next months**
