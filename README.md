@@ -9,22 +9,22 @@ Figure 1. OVERALL WORKFLOW OF SOCCOMAS. Left: Jena tuple store framework contain
 and INST-SCO and interprets them as the specification of this particular S-WCMS. Right: The frontend, based on the JavaScript framework AngularJS, with HTML and CSS output for browser requests and access to a SPARQL endpoint for service requests.
 
 The following data schemes, database processes, and entry form and graphical user interface (GUI) specifications have been developed for SOCCOMAS and fully described in the SOCCOMAS source code ontology as well as documented through vue files:
-          * data schemes:
-              * general data architecture of named graphs and directories and their relations;
-              * data entry life cycle model;
-              * versions and provenance management model;
-              * change-log model for modelling every editing step a user conducts for a specific version of a document;Nested bullet
-          * database processes:
-              * user sessions management;
-              * tracking of user contributions;
-              * tracking change-log;
-              * tracking provenance;
-              * status transitions associated with the data entry life cycle (e.g., save, publish, start revision, delete, etc.);
-          * entry form and GUI specifications:
-              * general GUI representation of a data document, with navigation of the document's different versions, and specification of each version's copyright-license (with specification of functionality);
-              * log-in and sign-up pages (with specification of functionality);
-              * user document with user profile (with specification of functionality);
-              * admin page for maintenance (with specification of functionality).
+* data schemes:
+  * general data architecture of named graphs and directories and their relations;
+  * data entry life cycle model;
+  * versions and provenance management model;
+  * change-log model for modelling every editing step a user conducts for a specific version of a document;Nested bullet
+* database processes:
+  * user sessions management;
+  * tracking of user contributions;
+  * tracking change-log;
+  * tracking provenance;
+  * status transitions associated with the data entry life cycle (e.g., save, publish, start revision, delete, etc.);
+* entry form and GUI specifications:
+  * general GUI representation of a data document, with navigation of the document's different versions, and specification of each version's copyright-license (with specification of functionality);
+  * log-in and sign-up pages (with specification of functionality);
+  * user document with user profile (with specification of functionality);
+  * admin page for maintenance (with specification of functionality).
 
 
 
