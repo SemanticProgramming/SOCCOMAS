@@ -9,7 +9,7 @@ Figure 1. OVERALL WORKFLOW OF SOCCOMAS. Left: Jena tuple store framework contain
 and INST-SCO and interprets them as the specification of this particular S-WCMS. Right: The frontend, based on the JavaScript framework AngularJS, with HTML and CSS output for browser requests and access to a SPARQL endpoint for service requests.
 
 The following data schemes, database processes, and entry form and graphical user interface (GUI) specifications have been developed for SOCCOMAS and fully described in the SOCCOMAS source code ontology as well as documented through vue files:
-Markup : * data schemes:
+          * data schemes:
               * general data architecture of named graphs and directories and their relations;
               * data entry life cycle model;
               * versions and provenance management model;
